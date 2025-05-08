@@ -9,8 +9,8 @@ const deleteButton = document.querySelector("#delete_button");
 let UserMessage = null;
 let isResponseGenerating = false;
 
-const API_KEY = `AIzaSyAHs5DufHPchHYhREmoDBAShWkvq0QSJ84`;
-let API_url = `https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=${API_KEY}`;
+const API_KEY = `AIzaSyD3_tPErYNZPIH3QPyE3gdVugIynonimPI`;
+let API_url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
 
 // Creating messages
 const createMessage = (content, ...classes) => {
