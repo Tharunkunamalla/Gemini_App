@@ -2,4 +2,4 @@
 .Legal Implications: Unauthorized use, reproduction, or distribution of your code is a violation of copyright law and can result in legal actions, including injunctions, damages, and fines.<br>
 .Permission Required: Others must obtain your explicit permission before using, copying, or distributing your code. This can be done through a licensing agreement or a direct grant of permission.<br>
 <br>
-You can update your profile in the assets/img folder
+You can update your profile in the assets/img
